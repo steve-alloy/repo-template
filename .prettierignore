@@ -1,0 +1,14 @@
+.DS_STORE
+.env
+.gitignore
+.prettierignore
+Caddyfile
+
+*.json
+*.js.map
+*.css
+
+node_modules/
+sandbox/
+build/
+images/

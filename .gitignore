@@ -1,0 +1,7 @@
+.DS_STORE
+.env
+Caddyfile
+node_modules/
+test/
+build/
+sandbox/

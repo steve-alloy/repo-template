@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+$danger: #a86e9d;
+
+@import "../public/main.css";
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200&display=swap");
+
+@import "../../node_modules/bulma/sass/utilities/_all.sass";
+@import "../../node_modules/bulma/sass/form/_all.sass";
